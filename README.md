@@ -1,7 +1,7 @@
 # EDA-Coursera-Project-2
 Data for Peer Assessment of PM2.5 Emissions Data in Balitmore
 
-##Leigh Matthews March 2016
+Leigh Matthews March 2016
 
 ## National Emissions Inventory Exploratory Data Analysis
 
