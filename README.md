@@ -3,7 +3,7 @@ Data for Peer Assessment of PM2.5 Emissions Data in Balitmore
 
 ##Leigh Matthews March 2016
 
-#Instructions
+## National Emissions Inventory Exploratory Data Analysis
 
 Fine particulate matter (PM2.5) is an ambient air pollutant for which there is strong evidence that it is harmful to human health. In the United States, the Environmental Protection Agency (EPA) is tasked with setting national ambient air quality standards for fine PM and for tracking the emissions of this pollutant into the atmosphere. Approximatly every 3 years, the EPA releases its database on emissions of PM2.5. This database is known as the National Emissions Inventory (NEI). You can read more information about the NEI at the EPA National Emissions Inventory web site.
 
@@ -52,7 +52,6 @@ The overall goal of this assignment is to explore the National Emissions Invento
 
 
 
-#Questions
 
 You must address the following questions and tasks in your exploratory analysis. For each question/task you will need to make a single plot. Unless specified, you can use any plotting system in R to make your plot.
 
